@@ -1,2 +1,2 @@
 # YOLO11-APS
-《YOLO11-APS: A Lightweight Detection Algorithm for Endangered Species in Camera Traps of Nature Reserves》
+《An Improved Lightweight Model for Protected Wildlife Detection in Camera Trap Images》https://doi.org/10.3390/s25237331
